@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx-pcs/fpx-pcs-manage/src/main/java/com/fpx/pcs/manage/scheduler/DestroyPackageResendJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx-pcs/fpx-pcs-manage/src/main/java/com/fpx/pcs/manage/scheduler/ExpiredPackageResendJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx-pcs/fpx-pcs-manage/src/main/resources/META-INF/mybatis/mapper/JobPackageMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx-pcs/fpx-pcs-outstock/src/main/java/com/fpx/pcs/outstock/service/impl/PrintExpressSheetImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-dispatch/fpx-dispatch-bo/src/main/java/com/fpx/dispatch/api/bo/ParcelBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-generator/src/test/java/com/fpx/generator/CodeGeneratorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/java/com/fpx/pcs/manage/controller/ProductController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/java/com/fpx/pcs/manage/dao/IPcsPackageMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/java/com/fpx/pcs/manage/feign/ProductFeign.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/java/com/fpx/pcs/manage/service/impl/PcsPackageServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/META-INF/mybatis/mapper/PcsPackageMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/bootstrap-local.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/bootstrap-uat.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/profile/dev/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/profile/test/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/static/i18n/messages.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/static/js/codeTrans.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/static/js/search_order.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/static/js/search_orderDetail.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/static/js/search_package.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/static/js/search_packageDetail.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/test/java/com/fpx/pcs/manage/controller/PCSJobControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/controller/PackageMergeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/controller/PcsMessageReceiverController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/controller/ProductController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/controller/SysExpressTemplateController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dao/IPcsDeliveryPackageMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/DispatchConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/FpxTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/LineTransportBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/LogisticsData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/LogisticsOrderBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/ParcelBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/ReturnInfoBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/TaskMasterData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/WarehouseOperationBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/task/ContainerData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/task/ContainerTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/task/DeliveryData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/task/DirectShipData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/task/InstorageData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/task/LineTransportData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/task/LineTransportTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/task/SplitData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/task/SplitTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/entity/PcsDeliveryPackage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/entity/PcsPickUpStation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/entity/PcsReturnInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/entity/PcsTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/IPcsDeliveryPackageService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/IPcsReturnInfoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/ReturnDispatchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/BaggingServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PackageMergeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsDeliveryBagServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsDeliveryPackageServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsOrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsPackageServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsPickUpStationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsReceiverInfoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsReturnInfoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/ReturnDispatchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/SysExpressTemplateServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/SysTaskTypeConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/test/DateTime.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/test/JsonTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/test/StringTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/ReturnDispatchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/TaskReturnDispatchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/TaskTrunkToDispatchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/ReturnDispatchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskMessageResolverServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskPcdOutboundMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskPcsInboundMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskPcsOutboundMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskPslInboundMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskPslMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskReturnDispatchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskTrunkToDispatchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/WareHouseDirectOutStackMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/WareHouseExceptionTaskMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/WareHouseMergeOutStackMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/WareHouseSignInMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/WareHouseTaskMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/WareHouserSaveOrUpdateTaskServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/META-INF/i18n/messages.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/META-INF/mybatis/mapper/SysPdaMessageConfigMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/bootstrap-local.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/profile/cover/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/profile/dev/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/profile/test/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/profile/uat/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/controller/ProductControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/mq/businessData/TaskMessageResolverTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/mq/businessData/TaskReturnDispatchTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/mq/businessData/TaskTrunkToDispatchTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/service/IPcsOrderWaveServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/service/PcsOrderServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/service/PcsPickUpStationServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/service/ReturnDispatchServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/service/TaskReturnDispatchServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-pojo/src/main/java/com/fpx/pcs/pojo/vo/PcsPackageVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-util/src/main/java/com/fpx/pcs/util/constants/GlobalConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-util/src/main/java/com/fpx/pcs/util/constants/PcsOrderConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-util/src/main/java/com/fpx/pcs/util/result/ResultMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-web/src/main/java/com/fpx/pcs/web/config/ApplicationConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-web/src/main/java/com/fpx/pcs/web/controller/ProductController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/paascloud-master/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../git/paascloud-master/paascloud-generator/paascloud-generator-mdc/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api/src/main/java/com/example/api/ApiApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api/src/main/java/com/example/api/config/Swagger2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api/src/main/java/com/example/api/controller/TestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/ManagerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/AdminLoginIntecept.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/CorsConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/DruidConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/GlobalCorsConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/GlobalExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/MyWebMvcConfigurer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/搜索.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/controller/ElasticSearchController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/controller/QRCodeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/controller/TestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/controller/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/entity/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/mapper/EmployeeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/mapper/UserMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/model/People.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/service/impl/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/util/ExecutorServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/banner.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/generator/generatorConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/log/logback.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/mapping/UserMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/people.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/people.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/test/java/com/example/manager/UserServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/test/java/com/example/manager/controller/UserControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mybatis-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mybatis-demo/src/main/java/com/example/mybatisdemo/config/ClusterDataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mybatis-demo/src/main/java/com/example/mybatisdemo/config/DruidConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mybatis-demo/src/main/java/com/example/mybatisdemo/config/MasterDataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mybatis-demo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/config/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/config/NettyClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/config/NettyClientHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/config/NettyClientInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/config/NettyServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/config/NettyServerHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/config/NettyServerInitializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/config/NettyServerListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/config/TCPServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/handles/ServerHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/handles/StringProtocolInitalizer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pojo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pojo/src/main/java/com/example/pojo/PojoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pojo/src/main/java/com/example/pojo/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pojo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/RpcLearningApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/beans/Message.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/config/DataSourceConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/config/DataSourceConfigurer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/config/DataSourceContextHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/config/DataSourceKey.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/config/DataSourceRoutingDataSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/config/DataSourceType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/config/DbContextHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/config/DynamicDataSourceAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/config/DynamicDataSourceContextHolder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/config/MybatisConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/consumer/KafkaReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/controller/KafkaController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/controller/MongoDBController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/controller/ProductController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/controller/RestZkController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/dao/ProductDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/dao/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/entity/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/entity/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/provider/KafkaSender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/service/ProductService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/service/ZkServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/java/com/example/rpclearning/service/impl/ProductServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/main/resources/mappers/ProductMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rpc-learning/src/test/java/com/example/rpclearning/dao/UserRepositoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/common/CustomDate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/common/DateConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/common/DateUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/common/GeneralUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/exception/BusinessRuntimeException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/result/ResultMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/test/sort/InsertSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/test/sort/SortTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/util/CreateQrcode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/utils/CookieUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/utils/CreateQrcode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/utils/ExceptionUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/utils/HttpClientUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/utils/IDUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/utils/QrCodeCreateUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/utils/QrCodeGenWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/utils/ShortNetAddressUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/utils/TestQrcode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/utils/ZhihuTravelProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/test/java/com/example/util/utils/QrCodeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+package com.example.manager.entity;
+
+import lombok.Data;
+import org.springframework.data.elasticsearch.annotations.Document;
+import org.springframework.data.elasticsearch.annotations.Field;
+
+import javax.persistence.Id;
+
+/**
+ * @author yuanjie
+ * @date 2018/9/19 18:26
+ */
+@Data
+@Document(indexName = "megacorp", type = "employee", shards = 1, replicas = 0, refreshInterval = "-1")
+public class Employee {
+    @Id
+    private String id;
+    @Field
+    private String firstName;
+    @Field
+    private String lastName;
+    @Field
+    private Integer age=0;
+    @Field
+    private String about;
+
+}

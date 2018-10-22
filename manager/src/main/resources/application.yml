@@ -1,0 +1,58 @@
+server:
+  port: 5555
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driverClassName: com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.jdbc.Driver
+    platform: mysql
+    url: jdbc:mysql://127.0.0.1:3306/test?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: root
+    initialSize: 5
+    minIdle: 5
+    maxActive: 20
+    maxWait: 60000
+    timeBetweenEvictionRunsMillis: 60000
+    minEvictableIdleTimeMillis: 300000
+    validationQuery: SELECT1FROMDUAL
+    testWhileIdle: true
+    testOnBorrow: false
+    testOnReturn: false
+    filters: stat,wall
+    logSlowSql: true
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch # 节点名字， 默认 elasticsearch
+      cluster-nodes: 127.0.0.1:9300 #节点地址，多个节点用逗号隔开
+      repositories:
+        enabled: true
+
+mybatis:
+  mapper-locations: classpath:mapping/*.xml
+  type-aliases-package: com.exception.manager.entity
+
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  params: count=countSql
+
+#日志
+#logging:
+#  config: classpath:log/logback.xml
+#  path: log/cloud-demo
+
+people:
+  id: 1005
+  name: idea
+  password: 123456
+
+management:  #actuator
+#  server:
+#    port: 5556
+  endpoints:
+    web:
+      base-path: /actuator
+      exposure:
+        include: "*"
