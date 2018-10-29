@@ -1,0 +1,52 @@
+package com.example.manager.service.impl;
+
+import com.example.manager.mapper.ModelMapper;
+import com.example.manager.model.Model;
+import com.example.manager.service.ModelService;
+import org.springframework.stereotype.Service;
+
+import javax.annotation.Resource;
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * @author yuanjie
+ * @date 2018/10/29 16:20
+ */
+@Service
+public class ModelServiceImpl implements ModelService {
+    @Resource
+    private ModelMapper modelMapper;
+
+    @Override
+    public Model findById(int id) {
+        Model model = modelMapper.selectById(id);
+//        Model model = new Model();
+        return model;
+    }
+
+    @Override
+    public Model findByName(String name) {
+        Model model = modelMapper.findByName(name);
+//        Model model = new Model();
+        return model;
+    }
+
+    @Override
+    public List<Model> findAll() {
+        List<Model> list = modelMapper.findAll();
+//        List<Model> list = new ArrayList<>();
+        return list;
+    }
+
+    @Override
+    public void insertOne(Model model) {
+        modelMapper.insertOne(model);
+    }
+
+    @Override
+    public int update(Model model) {
+        modelMapper.update(model);
+        return 0;
+    }
+}

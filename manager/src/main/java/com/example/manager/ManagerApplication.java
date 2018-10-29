@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 
 @SpringBootApplication
-@MapperScan("com.exception.manager.mapper")
+@MapperScan("com.example.manager.mapper")
 @EnableConfigurationProperties({People.class})
 public class ManagerApplication {
 
