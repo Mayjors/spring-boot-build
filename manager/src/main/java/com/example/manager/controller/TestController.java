@@ -20,7 +20,6 @@ public class TestController {
     public ResultMessage hi() {
 
         System.out.println(people.getId());
-
         return new ResultMessage("ssd");
     }
 
