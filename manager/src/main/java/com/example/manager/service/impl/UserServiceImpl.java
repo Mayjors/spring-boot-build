@@ -5,6 +5,7 @@ import com.example.manager.model.User;
 import com.example.manager.service.UserService;
 import com.github.pagehelper.PageHelper;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import javax.annotation.Resource;
 import java.util.List;
@@ -14,6 +15,7 @@ import java.util.List;
  * @date 2018/9/17 18:27
  */
 @Service
+@Transactional
 public class UserServiceImpl implements UserService {
     @Resource
     private UserMapper userMapper;

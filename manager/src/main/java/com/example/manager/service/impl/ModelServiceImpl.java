@@ -4,9 +4,9 @@ import com.example.manager.mapper.ModelMapper;
 import com.example.manager.model.Model;
 import com.example.manager.service.ModelService;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import javax.annotation.Resource;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -14,6 +14,7 @@ import java.util.List;
  * @date 2018/10/29 16:20
  */
 @Service
+@Transactional
 public class ModelServiceImpl implements ModelService {
     @Resource
     private ModelMapper modelMapper;
@@ -21,21 +22,18 @@ public class ModelServiceImpl implements ModelService {
     @Override
     public Model findById(int id) {
         Model model = modelMapper.selectById(id);
-//        Model model = new Model();
         return model;
     }
 
     @Override
     public Model findByName(String name) {
         Model model = modelMapper.findByName(name);
-//        Model model = new Model();
         return model;
     }
 
     @Override
     public List<Model> findAll() {
         List<Model> list = modelMapper.findAll();
-//        List<Model> list = new ArrayList<>();
         return list;
     }
 
