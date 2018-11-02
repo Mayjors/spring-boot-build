@@ -19,6 +19,8 @@ public class HelloController {
 
     @RequestMapping("/send")
     public void send() {
-        helloSender.send();
+//        helloSender.send();
+
+        helloSender.sendObj("sdsd");
     }
 }

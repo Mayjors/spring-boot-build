@@ -19,6 +19,7 @@
         <module>api</module>
         <module>nettydemo</module>
         <module>mybatis-demo</module>
+        <module>rabbit-demo</module>
     </modules>
 
     <parent>

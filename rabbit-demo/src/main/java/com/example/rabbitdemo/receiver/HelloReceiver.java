@@ -1,5 +1,6 @@
 package com.example.rabbitdemo.receiver;
 
+import com.example.rabbitdemo.model.Model;
 import com.rabbitmq.client.Channel;
 import org.springframework.amqp.core.Message;
 import org.springframework.amqp.rabbit.annotation.RabbitHandler;
@@ -14,10 +15,9 @@ import java.util.Date;
  * @date 2018/10/30 15:42
  */
 @Component
-@RabbitListener(queues = "hello")
 public class HelloReceiver {
 
-    @RabbitHandler
+    @RabbitListener(queues = "hello")
     public void process(String hello, Channel channel, Message message) throws IOException {
         System.out.println("HelloReceiver收到  : " + hello +"收到时间"+new Date());
         try {
@@ -31,7 +31,18 @@ public class HelloReceiver {
             //channel.basicNack(message.getMessageProperties().getDeliveryTag(), false,false);
             System.out.println("receiver fail");
         }
+    }
 
+//    @RabbitListener(queues = "helloObj")
+    public void processHelloObj(Model hello, Channel channel) throws IOException {
+        System.out.println(hello);
+//        channel.basicAck(1L,false);
+    }
+
+    @RabbitListener(queues = "helloObj")
+    public void processHelloObj2(String hello, Channel channel) throws IOException {
+        System.out.println(hello);
+//        channel.basicAck(1L,false);
     }
 
 }

@@ -31,9 +31,9 @@ public class HelloSender implements RabbitTemplate.ReturnCallback {
         this.rabbitTemplate.convertAndSend("hello", context);
     }
 
-    public void sendObj() {
+    public void sendObj(Object obj) {
 
-        this.rabbitTemplate.convertAndSend("helloObj", "helloObj");
+        this.rabbitTemplate.convertAndSend("helloObj", obj);
     }
 
     @Override

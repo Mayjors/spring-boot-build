@@ -2,6 +2,7 @@ package com.example.rabbitdemo.service.impl;
 
 import com.example.rabbitdemo.mapper.ModelMapper;
 import com.example.rabbitdemo.model.Model;
+import com.example.rabbitdemo.sender.HelloSender;
 import com.example.rabbitdemo.service.ModelService;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -18,6 +19,8 @@ import java.util.List;
 public class ModelServiceImpl implements ModelService {
     @Resource
     private ModelMapper modelMapper;
+    @Resource
+    private HelloSender helloSender;
 
     @Override
     public Model findById(int id) {
@@ -28,6 +31,7 @@ public class ModelServiceImpl implements ModelService {
     @Override
     public Model findByName(String name) {
         Model model = modelMapper.findByName(name);
+        helloSender.sendObj(model);
         return model;
     }
 
