@@ -40,7 +40,7 @@ pagehelper:
 
 #日志
 #logging:
-#  config: classpath:log/logback.xml
+#  config: classpath:log/logback.xml.bak.bak
 #  path: log/cloud-demo
 
 people:
@@ -56,3 +56,10 @@ management:  #actuator
       base-path: /actuator
       exposure:
         include: "*"
+
+#idea控制台默认日志级别修改
+debug: true
+# 指定输出日志的文件名，默认输出至当前项目目录下
+log:
+  file: springboot.log
+  path: E:/logs/manager
