@@ -28,12 +28,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-dispatch/fpx-dispatch-bo/src/main/java/com/fpx/dispatch/api/bo/ExceptionHandleBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-dispatch/fpx-dispatch-bo/src/main/java/com/fpx/dispatch/api/bo/ParcelBO.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-dispatch/fpx-dispatch-bo/src/main/java/com/fpx/dispatch/api/bo/task/LineTransportData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-dispatch/fpx-dispatch-pojo/src/main/java/com/fpx/dispatch/constants/BusinessConstans.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-dispatch/fpx-dispatch-pojo/src/main/java/com/fpx/dispatch/constants/DispatchConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-generator/src/test/java/com/fpx/generator/CodeGeneratorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-boot-web-support/src/main/resources/META-INF/i18n/messages.properties">
           <value>
             <set />
           </value>
@@ -93,6 +118,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/static/js/out_bound_batchDetail.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/static/js/search_order.js">
           <value>
             <set />
@@ -113,12 +143,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/static/js/uedClient.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/static/widgets/toolPage.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/main/resources/static/widgets/toolTable.js">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-manage/src/test/java/com/fpx/pcs/manage/controller/PCSJobControllerTest.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/PcsOperationApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/config/MqConfig.java">
           <value>
             <set />
           </value>
@@ -138,7 +193,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/controller/ReturnDispatchController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/controller/SysExpressTemplateController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/controller/TestController.java">
           <value>
             <set />
           </value>
@@ -154,6 +219,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/FpxTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/dto/businessData/GoodsBO.java">
           <value>
             <set />
           </value>
@@ -243,7 +313,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/entity/PcsExtaskPackage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/entity/PcsGoods.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/entity/PcsGoodsExList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/entity/PcsPickUpStation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/entity/PcsReturnGoods.java">
           <value>
             <set />
           </value>
@@ -258,7 +348,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/feign/FpxDisptchSenderFeign.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/feign/fallback/FpxDisptchSenderFeignImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/mq/receiver/MessageReceiverTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/mq/sender/MessageSenderProvider.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/IPcsAddedServiceService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/IPcsDeliveryPackageService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/IPcsExtaskPackageService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/IPcsGoodsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/IPcsReturnGoodsService.java">
           <value>
             <set />
           </value>
@@ -273,12 +403,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/AbnormalPackageProcessServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/BaggingServiceImpl.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PackageMergeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsAddedServiceServiceImpl.java">
           <value>
             <set />
           </value>
@@ -293,12 +433,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsDispatchTaskServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsExtaskPackageServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsGoodsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsJobInStockServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsOrderServiceImpl.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsPackageServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsPhotographServiceImpl.java">
           <value>
             <set />
           </value>
@@ -313,7 +478,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsReceivingBatchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsReturnGoodsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsReturnInfoServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/PcsTaskServiceImpl.java">
           <value>
             <set />
           </value>
@@ -328,7 +508,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/SysJobProcedureServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/SysTaskTypeConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/service/impl/UnpackingCheckSerciceImpl.java">
           <value>
             <set />
           </value>
@@ -344,6 +534,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/test/StringTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/test/stringtest/StrToJson.java">
           <value>
             <set />
           </value>
@@ -368,7 +563,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskExceptionHandleToDispatchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskExceptionMarkToDispatchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskMessageResolverServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskNonPackagePrealertToDisptchServiceImpl.java">
           <value>
             <set />
           </value>
@@ -378,7 +588,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskPcsExceptionHandleMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskPcsInboundMessageResolver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/java/com/fpx/pcs/operation/xml/service/impl/TaskPcsNUFMessageResolver.java">
           <value>
             <set />
           </value>
@@ -463,6 +683,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/bootstrap-uat.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/main/resources/profile/cover/application.yml">
           <value>
             <set />
@@ -488,6 +718,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/mq/businessData/TaskExceptionMarkToDispatchTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/mq/businessData/TaskMessageResolverTest.java">
           <value>
             <set />
@@ -499,6 +734,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/mq/businessData/TaskTrunkToDispatchTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-operation/src/test/java/com/fpx/pcs/operation/service/IPcsAddedServiceServiceTest.java">
           <value>
             <set />
           </value>
@@ -533,12 +773,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-util/src/main/java/com/fpx/pcs/util/constants/ExceptionConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-util/src/main/java/com/fpx/pcs/util/constants/GlobalConstants.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-util/src/main/java/com/fpx/pcs/util/constants/PcsOrderConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-util/src/main/java/com/fpx/pcs/util/constants/PcsTaskConstants.java">
           <value>
             <set />
           </value>
@@ -554,6 +804,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-web/src/main/java/com/fpx/pcs/web/controller/ProductController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-web/src/main/resources/bootstrap-local.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fpx/fpx-inletPcs/fpx-inletPcs-web/src/main/resources/static/widgets/reinforce.js">
           <value>
             <set />
           </value>
@@ -613,6 +873,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/FastJsonRedisSerializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/GlobalCorsConfig.java">
           <value>
             <set />
@@ -628,12 +893,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/redis/FastJsonRedisSerializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/redis/RedisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/config/搜索.md">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/controller/ElasticSearchController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/java/com/example/manager/controller/ModelController.java">
           <value>
             <set />
           </value>
@@ -713,7 +993,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/log/logback-spring.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/manager/src/main/resources/log/logback.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/log/logback.xml.bak">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/logback-spring.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/main/resources/logback.xml">
           <value>
             <set />
           </value>
@@ -729,6 +1029,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/manager/src/main/resources/people.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager/src/test/java/com/example/manager/TestRedis.java">
           <value>
             <set />
           </value>
@@ -828,6 +1133,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/nettydemo/src/main/java/com/example/nettydemo/test/ThreadSafeSample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/nettydemo/src/main/resources/application.properties">
           <value>
             <set />
@@ -859,6 +1169,76 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/rabbit-demo.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/java/com/example/rabbitdemo/controller/PeopleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/java/com/example/rabbitdemo/mapper/PeopleMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/java/com/example/rabbitdemo/mapper/WorkMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/java/com/example/rabbitdemo/model/Model.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/java/com/example/rabbitdemo/model/People.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/java/com/example/rabbitdemo/model/Work.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/java/com/example/rabbitdemo/receiver/HelloReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/java/com/example/rabbitdemo/service/PeopleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/java/com/example/rabbitdemo/service/WorkService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/java/com/example/rabbitdemo/service/impl/PeopleServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/java/com/example/rabbitdemo/service/impl/WorkServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rabbit-demo/src/main/resources/application.properties">
           <value>
             <set />
           </value>
@@ -1039,6 +1419,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/result/ResultMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/test/annotation/Child.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/test/annotation/Description.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/test/annotation/ParseAnn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/test/annotation/people.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/util/src/main/java/com/example/util/test/array/ArrayTest.java">
           <value>
             <set />
           </value>

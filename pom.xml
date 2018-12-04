@@ -13,15 +13,14 @@
 
     <modules>
         <module>api</module>
-        <module>manager</module>
-        <module>pojo</module>
-        <module>rpc-learning</module>
-
-        <module>nettydemo</module>
-        <module>mybatis-demo</module>
-        <module>rabbit-demo</module>
         <module>util</module>
+        <module>pojo</module>
 
+        <module>manager</module>
+        <module>rpc-learning</module>
+        <module>nettydemo</module>
+        <!--<module>mybatis-demo</module>-->
+        <module>rabbit-demo</module>
     </modules>
 
     <parent>

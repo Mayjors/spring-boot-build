@@ -12,6 +12,7 @@
         <module name="mybatis-demo" />
         <module name="nettydemo" />
         <module name="pojo" />
+        <module name="rabbit-demo" />
         <module name="rpc-learning" />
         <module name="util" />
       </profile>
@@ -23,6 +24,7 @@
       <module name="mybatis-demo" target="1.8" />
       <module name="nettydemo" target="1.8" />
       <module name="pojo" target="1.8" />
+      <module name="rabbit-demo" target="1.8" />
       <module name="rpc-learning" target="1.8" />
       <module name="util" target="1.8" />
     </bytecodeTargetLevel>

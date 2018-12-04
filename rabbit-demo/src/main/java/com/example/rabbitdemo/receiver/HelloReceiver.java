@@ -33,13 +33,14 @@ public class HelloReceiver {
         }
     }
 
-//    @RabbitListener(queues = "helloObj")
+    @RabbitListener(queues = "helloObj")
     public void processHelloObj(Model hello, Channel channel) throws IOException {
         System.out.println(hello);
+//        throw new NullPointerException();
 //        channel.basicAck(1L,false);
     }
 
-    @RabbitListener(queues = "helloObj")
+//    @RabbitListener(queues = "helloObj")
     public void processHelloObj2(String hello, Channel channel) throws IOException {
         System.out.println(hello);
 //        channel.basicAck(1L,false);
